@@ -1,2 +1,2 @@
-# xpz..github.io
+# xpz.github.io
 自用
