@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s}from"./chunks/framework.DAw72pMs.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vitepress/index.md","filePath":"vitepress/index.md"}'),r={name:"vitepress/index.md"};function a(n,i,o,c,d,p){return t(),s("div")}const f=e(r,[["render",a]]);export{m as __pageData,f as default};
